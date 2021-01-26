@@ -1,0 +1,15 @@
+# macosx noise
+
+.DS_Store
+
+# vscode noise
+
+.VScode/
+
+# remove oracle dependency
+
+oracle/driver/*
+
+# remove class
+
+*.class
